@@ -46,6 +46,6 @@ changeTheme() cycles through three themes:
 *Deep Blue & Yellow
 ![RunningCalculator](https://github.com/BIKER-LIFE/Portfolio/blob/main/images/Calc.png?raw=true)
 
-* [Windows EXE]()
+* [Windows EXE](https://github.com/BIKER-LIFE/Portfolio/blob/main/src/Calculator/windows-amd64.zip)
 * [MacOSX](https://github.com/BIKER-LIFE/Portfolio/blob/main/src/Calculator/macos-aarch64.zip)
 * [Source Code]()
