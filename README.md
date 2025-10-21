@@ -2,7 +2,7 @@
 
 ## Term 1 Projects
 
-### Calculator (2025)
+### Themed Calculator (2025)
 Interactive Calculator with Theme Switching
 
 This Processing sketch implements a fully functional graphical calculator with a clean button-based interface, support for basic and advanced operations, and a dynamic theme-switching feature.
@@ -46,6 +46,6 @@ changeTheme() cycles through three themes:
 *Deep Blue & Yellow
 ![RunningCalculator](https://github.com/BIKER-LIFE/Portfolio/blob/main/images/Calc.png?raw=true)
 
-* [Windows]()
-* []()
-* []()
+* [Windows EXE]()
+* [MacOSX]()
+* [Source Code]()
