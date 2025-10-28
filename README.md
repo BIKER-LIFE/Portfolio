@@ -44,7 +44,8 @@ changeTheme() cycles through three themes:
 * Dark Gray (default)
 * Light Gray
 * Deep Blue & Yellow
-  
+
+![CalculatorClassMap](https://github.com/BIKER-LIFE/Portfolio/blob/main/images/Drawiocalculatorstuffs.png?raw=true)  
 ![RunningCalculator](https://github.com/BIKER-LIFE/Portfolio/blob/main/images/Calc.png?raw=true)
 
 * [Windows EXE](https://github.com/BIKER-LIFE/Portfolio/blob/main/src/Calculator/windows-amd64.zip)
