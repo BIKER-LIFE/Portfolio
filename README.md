@@ -49,5 +49,5 @@ changeTheme() cycles through three themes:
 ![RunningCalculator](https://github.com/BIKER-LIFE/Portfolio/blob/main/images/Calc.png?raw=true)
 
 * [Windows EXE](https://github.com/BIKER-LIFE/Portfolio/blob/main/src/Calculator/windows-amd64.zip)
-* [MacOSX](https://github.com/BIKER-LIFE/Portfolio/blob/main/src/Calculator/macos-aarch64.zip)
+* [MacOSX]([https://github.com/BIKER-LIFE/Portfolio/blob/main/src/Calculator/macos-aarch64.zip](https://github.com/BIKER-LIFE/Portfolio/blob/main/src/Calculator/macos-aarch64%202.zip))
 * [Source Code]()
